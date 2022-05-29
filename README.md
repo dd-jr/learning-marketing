@@ -26,7 +26,7 @@ An ever-changing repository hosting resources for learning about marketing.
 | [Everyone Hates Marketers](https://podcasts.apple.com/us/podcast/everyone-hates-marketers/id1221256195) <br> Every week, Louis Grenier (who likes to speak in the third person) interviews guests or shares his own no-fluff, actionable marketing insights so you can stand out—without being sleazy. | |
 | :--------------------------------------  | :--------: |
 | **Episode**                              | **Status** |
-|  `52 min` [[BEST OF] How to Offend People & Create Great F\*cking Content](https://podcasts.apple.com/us/podcast/best-of-how-to-offend-people-create-great-f-cking-content/id1221256195?i=1000563451460)     |     ❌     |
+|  `50 min` [[BEST OF] How to Offend People & Create Great F\*cking Content](https://podcasts.apple.com/us/podcast/best-of-how-to-offend-people-create-great-f-cking-content/id1221256195?i=1000563451460)      |     ✔️     |
 |  `52 min` [[BEST OF] How to Blow Shit Up And Make a Difference](https://podcasts.apple.com/us/podcast/best-of-how-to-blow-shit-up-and-make-a-difference/id1221256195?i=1000561736536)                           |     ❌     |
 |  `26 min` [[BEST OF] How to Break Through The Clutter by Doing LESS (Not More)](https://podcasts.apple.com/us/podcast/best-of-how-to-break-through-the-clutter-by-doing/id1221256195?i=1000560224004)        |     ❌     |
 |  `57 min` [[BEST OF] Take F\*cking Risks: 3 Ways to Get Noticed](https://podcasts.apple.com/us/podcast/best-of-take-f-cking-risks-3-ways-to-get-noticed/id1221256195?i=1000559432296)                           |     ❌     |
