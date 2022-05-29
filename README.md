@@ -18,3 +18,13 @@ An ever-changing repository hosting resources for learning about marketing.
 |  [Assess for Success: Marketing Analytics and Measurement](https://www.coursera.org/learn/assess-for-success)                      |     ❌     |
 |  [Make the Sale: Build, Launch, and Manage E-commerce Stores](https://www.coursera.org/learn/make-the-sale)                        |     ❌     |
 |  [Satisfaction Guaranteed: Develop Customer Loyalty Online](https://www.coursera.org/learn/satisfaction-guaranteed)                |     ❌     |
+
+<hr>
+
+## Misc.
+
+| [Meta Learning](https://en.wikipedia.org/wiki/Meta_learning) <br> AKA learning to learn. Learning more effectively means better knowledge acquisition and retention, which can only be a good thing for your marketing career. | |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
+| **Resource**                                                                                                                                           | **Status** |
+|  [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)                |     ❌     |
+|  Start using [Anki](https://ankiweb.net/) for long-lasting memorization                                                                                |     ❌     |
