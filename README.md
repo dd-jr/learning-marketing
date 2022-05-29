@@ -27,4 +27,4 @@ An ever-changing repository hosting resources for learning about marketing.
 | :----------------------------------------------------------------------------------------------------------------------------------------------------  | :--------: |
 | **Resource**                                                                                                                                           | **Status** |
 |  [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)                |     ❌     |
-|  Start using [Anki](https://ankiweb.net/) for long-lasting memorization                                                                                |     ❌     |
+|  Start using [Anki](https://ankiweb.net/) for long-lasting memorization                                                                                |     ✔️     |
